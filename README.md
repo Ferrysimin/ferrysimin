@@ -1,4 +1,4 @@
-# profil[ReadMe (1).md](https://github.com/user-attachments/files/26556661/ReadMe.1.md)
+
 # 💫 About Me:
 I’m a web developer with experience in building modern and responsive websites using technologies like JavaScript, React, Next.js, Node.js, and PHP (CodeIgniter). I also have a background in design, working with tools such as Adobe Photoshop and CorelDRAW, allowing me to create websites that are not only functional but also visually appealing. I enjoy solving problems through code and continuously improving my skills to deliver reliable and well-structured digital solutions.
 
